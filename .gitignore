@@ -3,3 +3,6 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+micro_ros_dev
+micro_ros_src
+esp32_toolchain.cmake
